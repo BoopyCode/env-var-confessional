@@ -1,0 +1,2 @@
+# No external dependencies - pure Node.js goodness
+# Your sins are burden enough
